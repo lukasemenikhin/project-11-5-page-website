@@ -1,0 +1,55 @@
+body{
+    display: flex 15px;
+    text-align: center;
+}
+
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+.card-1{
+    width: 350px;
+    height: 350px;
+    border: 5px solid white;
+    padding: 10px;
+    margin: 10px;
+    
+    
+}
+
+
+.card-2{
+    width: 350px;
+    height: 350px;
+    border: 5px solid white;
+    padding: 10px;
+    margin: 10px;
+    
+}
+
+
+.card-3{
+    width: 350px;
+    height: 350px;
+    border: 5px solid white;
+    padding: 10px;
+    margin: 10px;
+    
+}
+
+
+.banner{
+    background-image: url(https://i.pinimg.com/originals/e1/f8/55/e1f8554dd0f4e79613cceb8cd006161d.jpg);
+    background-position: center center;
+}
+
+.singup{
+    border: 5px solid black;
+    box-shadow: 5px 5px 5px black;
+}
